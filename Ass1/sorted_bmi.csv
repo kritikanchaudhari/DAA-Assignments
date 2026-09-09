@@ -1,0 +1,742 @@
+Age,Height,Weight,Bmi,BmiClass
+20,1.46,25.9,12.1505,Underweight
+16,1.46,26.3,12.3382,Underweight
+19,1.47,26.9,12.4485,Underweight
+18,1.46,26.6,12.4789,Underweight
+17,1.47,27.3,12.6336,Underweight
+20,1.47,27.6,12.7725,Underweight
+18,1.48,28.3,12.92,Underweight
+16,1.47,28,12.9576,Underweight
+17,1.49,29,13.0625,Underweight
+19,1.48,28.7,13.1026,Underweight
+20,1.49,29.4,13.2426,Underweight
+18,1.5,30.3,13.4667,Underweight
+16,1.49,29.9,13.4679,Underweight
+17,1.51,31.2,13.6836,Underweight
+19,1.5,30.8,13.6889,Underweight
+20,1.51,31.7,13.9029,Underweight
+16,1.52,32.2,13.937,Underweight
+18,1.52,32.9,14.24,Underweight
+19,1.53,33.6,14.3535,Underweight
+17,1.54,34.1,14.3785,Underweight
+20,1.54,34.9,14.7158,Underweight
+18,1.57,36.3,14.7268,Underweight
+19,1.58,37,14.8213,Underweight
+16,1.55,35.7,14.8595,Underweight
+21,1.7,43.4,15.0173,Underweight
+17,1.6,38.9,15.1953,Underweight
+40,1.56,38,15.6147,Underweight
+21,1.55,37.6,15.6504,Underweight
+37,1.58,39.1,15.6626,Underweight
+34,1.61,40.6,15.663,Underweight
+36,1.59,39.6,15.6639,Underweight
+35,1.6,40.1,15.6641,Underweight
+32,1.64,42.2,15.6901,Underweight
+41,1.55,37.7,15.692,Underweight
+33,1.62,41.2,15.6988,Underweight
+38,1.57,38.7,15.7004,Underweight
+39,1.56,38.3,15.738,Underweight
+43,1.54,37.4,15.7699,Underweight
+31,1.65,43,15.7943,Underweight
+45,1.53,37,15.8059,Underweight
+42,1.54,37.5,15.8121,Underweight
+44,1.53,37.2,15.8913,Underweight
+47,1.52,36.8,15.928,Underweight
+30,1.67,44.5,15.9561,Underweight
+46,1.52,36.9,15.9713,Underweight
+49,1.51,36.6,16.0519,Underweight
+16,1.58,40.1,16.0631,Underweight
+18,1.61,41.7,16.0873,Underweight
+48,1.51,36.7,16.0958,Underweight
+51,1.5,36.4,16.1778,Underweight
+20,1.56,39.4,16.19,Underweight
+50,1.5,36.5,16.2222,Underweight
+19,1.59,41.2,16.2968,Underweight
+53,1.49,36.2,16.3056,Underweight
+52,1.49,36.3,16.3506,Underweight
+28,1.68,46.2,16.369,Underweight
+55,1.48,36.1,16.481,Underweight
+19,1.6,42.3,16.5234,Underweight
+54,1.48,36.2,16.5267,Underweight
+29,1.66,45.7,16.5844,Underweight
+25,1.73,49.7,16.606,Underweight
+19,1.58,41.5,16.6239,Underweight
+27,1.69,47.5,16.6311,Underweight
+47,1.55,40,16.6493,Underweight
+31,1.55,40,16.6493,Underweight
+18,1.55,40,16.6493,Underweight
+15,1.55,40,16.6493,Underweight
+58,1.47,36,16.6597,Underweight
+57,1.47,36,16.6597,Underweight
+20,1.57,41.1,16.6741,Underweight
+56,1.47,36.1,16.706,Underweight
+26,1.71,48.9,16.7231,Underweight
+18,1.62,43.9,16.7276,Underweight
+17,1.62,44,16.7657,Underweight
+48,1.58,42,16.8242,Underweight
+32,1.58,42,16.8242,Underweight
+16,1.58,42,16.8242,Underweight
+60,1.46,35.9,16.8418,Underweight
+59,1.46,36,16.8887,Underweight
+16,1.59,42.8,16.9297,Underweight
+17,1.63,45.2,17.0123,Underweight
+49,1.6,44,17.1875,Underweight
+33,1.6,44,17.1875,Underweight
+17,1.6,44,17.1875,Underweight
+20,1.61,44.6,17.2061,Underweight
+50,1.62,46,17.5278,Underweight
+34,1.62,46,17.5278,Underweight
+18,1.62,46,17.5278,Underweight
+35,1.64,48,17.8465,Underweight
+19,1.64,48,17.8465,Underweight
+36,1.66,50,18.1449,Underweight
+20,1.66,50,18.1449,Underweight
+24,1.66,50.5,18.3263,Underweight
+37,1.68,52,18.424,Underweight
+21,1.68,52,18.424,Underweight
+23,1.68,52.1,18.4595,Underweight
+38,1.7,54,18.6851,Normal Weight
+22,1.7,54,18.6851,Normal Weight
+21,1.75,57.3,18.7102,Normal Weight
+39,1.72,56,18.9292,Normal Weight
+23,1.72,56,18.9292,Normal Weight
+22,1.7,54.8,18.9619,Normal Weight
+16,1.62,50,19.052,Normal Weight
+40,1.74,58,19.1571,Normal Weight
+24,1.74,58,19.1571,Normal Weight
+17,1.63,51.2,19.2706,Normal Weight
+41,1.76,60,19.3698,Normal Weight
+25,1.76,60,19.3698,Normal Weight
+18,1.64,52.5,19.5196,Normal Weight
+42,1.78,62,19.5682,Normal Weight
+26,1.78,62,19.5682,Normal Weight
+43,1.8,64,19.7531,Normal Weight
+27,1.8,64,19.7531,Normal Weight
+19,1.65,53.8,19.7612,Normal Weight
+15,1.62,52,19.8141,Normal Weight
+29,1.7,57.3,19.827,Normal Weight
+27,1.68,56,19.8413,Normal Weight
+28,1.69,56.7,19.8522,Normal Weight
+37,1.71,58.1,19.8694,Normal Weight
+26,1.67,55.5,19.9003,Normal Weight
+44,1.82,66,19.9251,Normal Weight
+28,1.82,66,19.9251,Normal Weight
+38,1.72,59,19.9432,Normal Weight
+31,1.72,59,19.9432,Normal Weight
+15,1.63,53,19.9481,Normal Weight
+20,1.66,55,19.9594,Normal Weight
+36,1.7,57.8,20,Normal Weight
+30,1.71,58.5,20.0062,Normal Weight
+39,1.73,59.9,20.014,Normal Weight
+40,1.74,60.7,20.0489,Normal Weight
+15,1.64,54,20.0773,Normal Weight
+42,1.76,62.2,20.0801,Normal Weight
+41,1.75,61.5,20.0816,Normal Weight
+45,1.84,68,20.0851,Normal Weight
+29,1.84,68,20.0851,Normal Weight
+46,1.73,60.2,20.1143,Normal Weight
+35,1.76,62.4,20.1446,Normal Weight
+47,1.74,61,20.148,Normal Weight
+21,1.67,56.2,20.1513,Normal Weight
+34,1.75,61.8,20.1796,Normal Weight
+15,1.65,55,20.202,Normal Weight
+33,1.74,61.2,20.214,Normal Weight
+46,1.86,70,20.2336,Normal Weight
+30,1.86,70,20.2336,Normal Weight
+43,1.77,63.4,20.2368,Normal Weight
+32,1.73,60.8,20.3147,Normal Weight
+15,1.66,56,20.3223,Normal Weight
+48,1.75,62.3,20.3429,Normal Weight
+22,1.68,57.5,20.3727,Normal Weight
+16,1.64,55,20.4491,Normal Weight
+44,1.78,64.8,20.452,Normal Weight
+45,1.79,65.7,20.505,Normal Weight
+49,1.76,63.6,20.532,Normal Weight
+23,1.69,58.7,20.5525,Normal Weight
+16,1.65,56,20.5693,Normal Weight
+16,1.66,57,20.6852,Normal Weight
+50,1.77,64.9,20.7156,Normal Weight
+24,1.7,60,20.7612,Normal Weight
+16,1.67,58,20.7967,Normal Weight
+16,1.68,59,20.9042,Normal Weight
+25,1.71,61.2,20.9295,Normal Weight
+16,1.642,56.6,20.9928,Normal Weight
+17,1.67,59,21.1553,Normal Weight
+15,1.597,54,21.1731,Normal Weight
+17,1.68,60,21.2585,Normal Weight
+17,1.65,58,21.3039,Normal Weight
+17,1.69,61,21.3578,Normal Weight
+15,1.605,55.2,21.4284,Normal Weight
+17,1.7,62,21.4533,Normal Weight
+16,1.6,55,21.4844,Normal Weight
+16,1.652,58.7,21.5089,Normal Weight
+19,1.66,59.5,21.5924,Normal Weight
+36,1.69,62,21.7079,Normal Weight
+18,1.684,61.7,21.7571,Normal Weight
+29,1.63,58,21.83,Normal Weight
+18,1.67,61,21.8724,Normal Weight
+24,1.76,68,21.9525,Normal Weight
+30,1.76,68,21.9525,Normal Weight
+31,1.68,62,21.9671,Normal Weight
+18,1.68,62,21.9671,Normal Weight
+23,1.7,63.5,21.9723,Normal Weight
+32,1.65,60,22.0386,Normal Weight
+33,1.73,66,22.0522,Normal Weight
+26,1.69,63,22.0581,Normal Weight
+18,1.69,63,22.0581,Normal Weight
+31,1.74,67,22.1297,Normal Weight
+29,1.7,64,22.1453,Normal Weight
+18,1.7,64,22.1453,Normal Weight
+27,1.75,68,22.2041,Normal Weight
+21,1.72,65.7,22.208,Normal Weight
+17,1.65,60.5,22.2222,Normal Weight
+18,1.74,67.3,22.2288,Normal Weight
+35,1.71,65,22.2291,Normal Weight
+18,1.71,65,22.2291,Normal Weight
+18,1.68,62.8,22.2506,Normal Weight
+32,1.78,70.5,22.251,Normal Weight
+18,1.739,67.3,22.2544,Normal Weight
+28,1.76,69,22.2753,Normal Weight
+29,1.79,71.4,22.2839,Normal Weight
+17,1.628,59.1,22.2987,Normal Weight
+34,1.72,66,22.3094,Normal Weight
+30,1.72,66,22.3094,Normal Weight
+20,1.72,66,22.3094,Normal Weight
+31,1.68,63,22.3214,Normal Weight
+29,1.68,63,22.3214,Normal Weight
+19,1.68,63,22.3214,Normal Weight
+18,1.762,69.301,22.3217,Normal Weight
+18,1.69,63.8,22.3382,Normal Weight
+24,1.76,69.32,22.3786,Normal Weight
+34,1.73,67,22.3863,Normal Weight
+24,1.759,69.32,22.4041,Normal Weight
+32,1.65,61,22.4059,Normal Weight
+30,1.65,61,22.4059,Normal Weight
+26,1.65,61,22.4059,Normal Weight
+33,1.69,64,22.4082,Normal Weight
+30,1.69,64,22.4082,Normal Weight
+19,1.69,64,22.4082,Normal Weight
+38,1.78,71,22.4088,Normal Weight
+19,1.741,68,22.4342,Normal Weight
+35,1.77,70.3,22.4393,Normal Weight
+26,1.74,68,22.46,Normal Weight
+19,1.74,68,22.46,Normal Weight
+17,1.638,60.3,22.4745,Normal Weight
+27,1.62,59,22.4813,Normal Weight
+34,1.7,65,22.4914,Normal Weight
+33,1.7,65,22.4914,Normal Weight
+32,1.7,65,22.4914,Normal Weight
+19,1.7,65,22.4914,Normal Weight
+22,1.68,63.5,22.4986,Normal Weight
+29,1.66,62,22.4996,Normal Weight
+28,1.66,62,22.4996,Normal Weight
+27,1.66,62,22.4996,Normal Weight
+22,1.69,64.3,22.5132,Normal Weight
+27,1.74,68.2,22.5261,Normal Weight
+19,1.763,70.101,22.5538,Normal Weight
+34,1.71,66,22.571,Normal Weight
+31,1.71,66,22.571,Normal Weight
+19,1.71,66,22.571,Normal Weight
+31,1.63,60,22.5827,Normal Weight
+28,1.63,60,22.5827,Normal Weight
+28,1.67,63,22.5896,Normal Weight
+27,1.67,63,22.5896,Normal Weight
+18,1.75,69.2,22.5959,Normal Weight
+46,1.68,63.8,22.6049,Normal Weight
+18,1.66,62.3,22.6085,Normal Weight
+29,1.78,71.72,22.636,Normal Weight
+35,1.72,67,22.6474,Normal Weight
+20,1.72,67,22.6474,Normal Weight
+19,1.72,67,22.6474,Normal Weight
+26,1.6,58,22.6562,Normal Weight
+25,1.6,58,22.6562,Normal Weight
+29,1.779,71.72,22.6615,Normal Weight
+23,1.75,69.41,22.6645,Normal Weight
+32,1.68,64,22.6757,Normal Weight
+23,1.749,69.41,22.6904,Normal Weight
+28,1.78,72.1,22.756,Normal Weight
+20,1.69,65,22.7583,Normal Weight
+45,1.67,63.5,22.7688,Normal Weight
+34,1.75,69.8,22.7918,Normal Weight
+25,1.71,66.7,22.8104,Normal Weight
+19,1.751,70,22.831,Normal Weight
+30,1.7,66,22.8374,Normal Weight
+20,1.7,66,22.8374,Normal Weight
+24,1.75,70,22.8571,Normal Weight
+25,1.62,60,22.8624,Normal Weight
+18,1.738,69.099,22.8756,Normal Weight
+24,1.73,68.5,22.8875,Normal Weight
+36,1.75,70.1,22.8898,Normal Weight
+21,1.71,67,22.913,Normal Weight
+23,1.71,67,22.913,Normal Weight
+28,1.77,71.81,22.9213,Normal Weight
+25,1.75,70.2,22.9224,Normal Weight
+24,1.77,71.82,22.9244,Normal Weight
+18,1.761,71.1,22.9272,Normal Weight
+28,1.769,71.81,22.9472,Normal Weight
+18,1.76,71.1,22.9533,Normal Weight
+22,1.74,69.5,22.9555,Normal Weight
+22,1.739,69.5,22.9819,Normal Weight
+25,1.72,68,22.9854,Normal Weight
+21,1.72,68,22.9854,Normal Weight
+20,1.72,68,22.9854,Normal Weight
+21,1.69,65.7,23.0034,Normal Weight
+25,1.75,70.5,23.0204,Normal Weight
+32,1.68,65,23.03,Normal Weight
+21,1.73,69,23.0546,Normal Weight
+20,1.73,69,23.0546,Normal Weight
+34,1.78,73.2,23.1031,Normal Weight
+19,1.739,69.899,23.1138,Normal Weight
+47,1.66,63.7,23.1166,Normal Weight
+44,1.7,66.9,23.1488,Normal Weight
+26,1.72,68.5,23.1544,Normal Weight
+22,1.762,71.901,23.1592,Normal Weight
+48,1.65,63.1,23.1772,Normal Weight
+23,1.76,71.81,23.1825,Normal Weight
+21,1.75,71,23.1837,Normal Weight
+19,1.762,72,23.1911,Normal Weight
+20,1.697,66.8,23.196,Normal Weight
+27,1.76,71.9,23.2115,Normal Weight
+19,1.761,72,23.2174,Normal Weight
+27,1.759,71.9,23.2379,Normal Weight
+31,1.76,72,23.2438,Normal Weight
+49,1.65,63.3,23.2507,Normal Weight
+21,1.73,69.59,23.2517,Normal Weight
+19,1.661,64.2,23.27,Normal Weight
+21,1.729,69.59,23.2786,Normal Weight
+19,1.7,67.3,23.2872,Normal Weight
+50,1.64,62.7,23.312,Normal Weight
+29,1.79,74.72,23.3201,Normal Weight
+22,1.72,69,23.3234,Normal Weight
+19,1.673,65.4,23.3661,Normal Weight
+36,1.74,70.8,23.3849,Normal Weight
+22,1.73,70,23.3887,Normal Weight
+21,1.73,70,23.3887,Normal Weight
+40,1.73,70,23.3887,Normal Weight
+21,1.752,71.891,23.421,Normal Weight
+29,1.72,69.3,23.4248,Normal Weight
+24,1.781,74.32,23.4303,Normal Weight
+22,1.75,71.8,23.4449,Normal Weight
+35,1.75,71.8,23.4449,Normal Weight
+23,1.74,71,23.4509,Normal Weight
+22,1.74,71,23.4509,Normal Weight
+24,1.78,74.32,23.4566,Normal Weight
+30,1.77,73.5,23.4607,Normal Weight
+37,1.72,69.5,23.4924,Normal Weight
+33,1.77,73.6,23.4926,Normal Weight
+29,1.79,75.3,23.5011,Normal Weight
+26,1.75,71.99,23.5069,Normal Weight
+42,1.69,67.2,23.5286,Normal Weight
+26,1.749,71.99,23.5338,Normal Weight
+28,1.78,74.6,23.545,Normal Weight
+29,1.7798,74.6,23.5503,Normal Weight
+20,1.72,69.68,23.5533,Normal Weight
+21,1.715,69.3,23.5616,Normal Weight
+22,1.76,73,23.5666,Normal Weight
+28,1.78,74.71,23.5797,Normal Weight
+20,1.719,69.68,23.5807,Normal Weight
+27,1.74,71.5,23.6161,Normal Weight
+37,1.76,73.2,23.6312,Normal Weight
+23,1.771,74.21,23.6606,Normal Weight
+28,1.78,75,23.6713,Normal Weight
+23,1.77,74.21,23.6873,Normal Weight
+20,1.742,71.881,23.6874,Normal Weight
+34,1.73,70.9,23.6894,Normal Weight
+20,1.705,68.9,23.7012,Normal Weight
+32,1.8,76.8,23.7037,Normal Weight
+21,1.74,71.79,23.7119,Normal Weight
+22,1.738,71.699,23.7363,Normal Weight
+32,1.69,67.8,23.7387,Normal Weight
+26,1.74,71.9,23.7482,Normal Weight
+23,1.74,72,23.7812,Normal Weight
+22,1.74,72,23.7812,Normal Weight
+21,1.721,70.5,23.8028,Normal Weight
+25,1.74,72.08,23.8076,Normal Weight
+28,1.7698,74.59,23.814,Normal Weight
+25,1.739,72.08,23.835,Normal Weight
+24,1.75,73,23.8367,Normal Weight
+23,1.75,73,23.8367,Normal Weight
+27,1.77,74.7,23.8437,Normal Weight
+22,1.761,74.1,23.8946,Normal Weight
+22,1.76,74.1,23.9217,Normal Weight
+33,1.81,78.4,23.9309,Normal Weight
+35,1.65,65.2,23.9486,Normal Weight
+27,1.79,76.8,23.9693,Normal Weight
+20,1.73,71.78,23.9834,Normal Weight
+29,1.8,77.72,23.9877,Normal Weight
+38,1.71,70.2,24.0074,Normal Weight
+21,1.728,71.689,24.0085,Normal Weight
+16,1.65,65.5,24.0588,Normal Weight
+27,1.7598,74.58,24.0822,Normal Weight
+26,1.76,74.69,24.1122,Normal Weight
+21,1.751,73.99,24.1324,Normal Weight
+21,1.75,73.99,24.16,Normal Weight
+24,1.75,74,24.1633,Normal Weight
+23,1.75,74,24.1633,Normal Weight
+25,1.76,75,24.2123,Normal Weight
+24,1.76,75,24.2123,Normal Weight
+28,1.79,77.61,24.2221,Normal Weight
+36,1.68,68.4,24.2347,Normal Weight
+20,1.718,71.679,24.2854,Normal Weight
+34,1.73,72.72,24.2975,Normal Weight
+42,1.65,66.2,24.3159,Normal Weight
+34,1.729,72.72,24.3256,Normal Weight
+33,1.73,72.81,24.3276,Normal Weight
+30,1.68,68.7,24.341,Normal Weight
+26,1.7498,74.57,24.355,Normal Weight
+33,1.729,72.81,24.3557,Normal Weight
+32,1.73,72.9,24.3576,Normal Weight
+20,1.741,73.88,24.3741,Normal Weight
+17,1.67,68,24.3824,Normal Weight
+25,1.75,74.68,24.3853,Normal Weight
+32,1.729,72.9,24.3858,Normal Weight
+31,1.73,72.99,24.3877,Normal Weight
+20,1.74,73.88,24.4022,Normal Weight
+23,1.746,74.4,24.4053,Normal Weight
+31,1.729,72.99,24.4159,Normal Weight
+30,1.73,73.08,24.4178,Normal Weight
+30,1.729,73.08,24.446,Normal Weight
+27,1.78,77.5,24.4603,Normal Weight
+28,1.75,75,24.4898,Normal Weight
+46,1.68,69.2,24.5181,Normal Weight
+39,1.73,73.42,24.5314,Normal Weight
+25,1.76,76,24.5351,Normal Weight
+24,1.76,76,24.5351,Normal Weight
+39,1.729,73.42,24.5598,Normal Weight
+38,1.73,73.51,24.5615,Normal Weight
+25,1.77,77,24.5779,Normal Weight
+38,1.729,73.51,24.5899,Normal Weight
+37,1.73,73.6,24.5915,Normal Weight
+23,1.753,75.6,24.6013,Normal Weight
+44,1.69,70.3,24.614,Normal Weight
+37,1.729,73.6,24.62,Normal Weight
+36,1.73,73.69,24.6216,Normal Weight
+25,1.7398,74.56,24.6324,Normal Weight
+36,1.729,73.69,24.6501,Normal Weight
+35,1.73,73.78,24.6517,Normal Weight
+24,1.767,77,24.6614,Normal Weight
+47,1.66,68,24.677,Normal Weight
+35,1.729,73.78,24.6802,Normal Weight
+18,1.69,70.5,24.684,Normal Weight
+26,1.77,77.39,24.7024,Normal Weight
+41,1.67,68.9,24.7051,Normal Weight
+22,1.8,80.2,24.7531,Normal Weight
+48,1.73,74.11,24.7619,Normal Weight
+44,1.73,74.12,24.7653,Normal Weight
+47,1.73,74.2,24.792,Normal Weight
+43,1.73,74.21,24.7953,Normal Weight
+22,1.702,71.9,24.8205,Normal Weight
+46,1.73,74.29,24.8221,Normal Weight
+42,1.73,74.3,24.8254,Normal Weight
+45,1.73,74.38,24.8521,Normal Weight
+41,1.73,74.39,24.8555,Normal Weight
+24,1.772,78.1,24.8727,Normal Weight
+40,1.73,74.48,24.8856,Normal Weight
+25,1.77,78,24.8971,Normal Weight
+40,1.729,74.48,24.9144,Normal Weight
+25,1.76,77.28,24.9483,Normal Weight
+42,1.75,76.5,24.9796,Normal Weight
+22,1.709,73,24.9942,Normal Weight
+49,1.72,74.02,25.0203,Overweight
+49,1.64,67.3,25.0223,Overweight
+25,1.781,79.5,25.0634,Overweight
+50,1.72,74.18,25.0744,Overweight
+30,1.74,76.18,25.1618,Overweight
+31,1.74,76.19,25.1651,Overweight
+32,1.74,76.2,25.1684,Overweight
+33,1.74,76.21,25.1718,Overweight
+34,1.74,76.22,25.1751,Overweight
+55,1.71,73.68,25.1975,Overweight
+50,1.63,67,25.2174,Overweight
+18,1.7,72.9,25.2249,Overweight
+39,1.7,72.9,25.2249,Overweight
+54,1.71,73.82,25.2454,Overweight
+19,1.7,73,25.2595,Overweight
+43,1.69,72.2,25.2792,Overweight
+24,1.72,74.8,25.2839,Overweight
+25,1.786,80.7,25.2994,Overweight
+52,1.71,74,25.3069,Overweight
+51,1.71,74.09,25.3377,Overweight
+26,1.799,82.1,25.3677,Overweight
+59,1.7,73.32,25.3702,Overweight
+27,1.825,84.6,25.4006,Overweight
+58,1.7,73.41,25.4014,Overweight
+30,1.7298,76.06,25.4194,Overweight
+31,1.7298,76.07,25.4227,Overweight
+57,1.7,73.5,25.4325,Overweight
+44,1.71,74.4,25.4437,Overweight
+56,1.7,73.59,25.4637,Overweight
+37,1.67,71.1,25.4939,Overweight
+22,1.68,72,25.5102,Overweight
+20,1.72,75.6,25.5544,Overweight
+35,1.74,77.38,25.5582,Overweight
+36,1.74,77.39,25.5615,Overweight
+37,1.74,77.4,25.5648,Overweight
+38,1.74,77.41,25.5681,Overweight
+39,1.74,77.42,25.5714,Overweight
+38,1.71,74.8,25.5805,Overweight
+31,1.7,74.1,25.6401,Overweight
+46,1.73,77,25.7276,Overweight
+21,1.69,73.5,25.7344,Overweight
+21,1.74,78.1,25.796,Overweight
+28,1.838,87.2,25.8122,Overweight
+20,1.68,72.9,25.8291,Overweight
+26,1.794,83.2,25.8511,Overweight
+30,1.75,79.28,25.8873,Overweight
+26,1.76,80.2,25.891,Overweight
+27,1.82,85.8,25.9027,Overweight
+31,1.75,79.39,25.9233,Overweight
+40,1.7,75,25.9516,Overweight
+40,1.74,78.58,25.9546,Overweight
+41,1.74,78.59,25.9579,Overweight
+32,1.75,79.5,25.9592,Overweight
+42,1.74,78.6,25.9612,Overweight
+43,1.74,78.61,25.9645,Overweight
+44,1.74,78.62,25.9678,Overweight
+33,1.75,79.61,25.9951,Overweight
+39,1.66,71.7,26.0197,Overweight
+34,1.75,79.72,26.031,Overweight
+19,1.69,74.4,26.0495,Overweight
+22,1.76,80.7,26.0524,Overweight
+45,1.74,78.98,26.0867,Overweight
+46,1.74,78.99,26.09,Overweight
+47,1.74,79,26.0933,Overweight
+27,1.71,76.3,26.0935,Overweight
+48,1.74,79.01,26.0966,Overweight
+29,1.853,89.7,26.1241,Overweight
+26,1.7,75.6,26.1592,Overweight
+48,1.62,68.7,26.1774,Overweight
+28,1.73,78.6,26.2622,Overweight
+23,1.7,75.9,26.263,Overweight
+23,1.78,83.3,26.2909,Overweight
+28,1.832,88.3,26.3093,Overweight
+30,1.74,79.9,26.3905,Overweight
+30,1.87,92.3,26.3948,Overweight
+49,1.73,79.02,26.4025,Overweight
+51,1.63,70.2,26.4218,Overweight
+27,1.72,78.2,26.4332,Overweight
+35,1.75,80.98,26.4424,Overweight
+45,1.72,78.3,26.467,Overweight
+33,1.7298,79.21,26.4721,Overweight
+34,1.7298,79.22,26.4754,Overweight
+36,1.75,81.09,26.4784,Overweight
+24,1.8,85.8,26.4815,Overweight
+50,1.73,79.28,26.4894,Overweight
+37,1.75,81.2,26.5143,Overweight
+38,1.75,81.31,26.5502,Overweight
+41,1.72,78.6,26.5684,Overweight
+25,1.71,77.7,26.5723,Overweight
+29,1.75,81.4,26.5796,Overweight
+39,1.75,81.42,26.5861,Overweight
+29,1.847,90.9,26.6459,Overweight
+25,1.82,88.4,26.6876,Overweight
+28,1.74,80.8,26.6878,Overweight
+55,1.72,79.28,26.7983,Overweight
+51,1.72,79.29,26.8016,Overweight
+52,1.72,79.3,26.805,Overweight
+53,1.72,79.31,26.8084,Overweight
+54,1.72,79.32,26.8118,Overweight
+30,1.865,93.4,26.8528,Overweight
+35,1.7298,80.38,26.8631,Overweight
+36,1.7298,80.39,26.8664,Overweight
+37,1.7298,80.4,26.8698,Overweight
+29,1.76,83.3,26.8918,Overweight
+40,1.75,82.68,26.9976,Overweight
+60,1.71,79.02,27.0237,Overweight
+41,1.75,82.79,27.0335,Overweight
+30,1.78,85.7,27.0484,Overweight
+42,1.75,82.9,27.0694,Overweight
+43,1.75,83.01,27.1053,Overweight
+56,1.71,79.29,27.116,Overweight
+57,1.71,79.3,27.1195,Overweight
+58,1.71,79.31,27.1229,Overweight
+59,1.71,79.32,27.1263,Overweight
+44,1.75,83.12,27.1412,Overweight
+33,1.76,84.3,27.2146,Overweight
+31,1.8,88.2,27.2222,Overweight
+31,1.74,82.5,27.2493,Overweight
+50,1.63,72.5,27.2874,Overweight
+45,1.75,83.58,27.2914,Overweight
+46,1.75,83.69,27.3273,Overweight
+32,1.82,90.6,27.3518,Overweight
+47,1.75,83.8,27.3633,Overweight
+48,1.75,83.91,27.3992,Overweight
+18,1.59,69.32,27.4198,Overweight
+33,1.84,93.1,27.4988,Overweight
+47,1.65,75.3,27.6584,Overweight
+34,1.86,95.7,27.6622,Overweight
+32,1.72,81.9,27.6839,Overweight
+34,1.77,86.9,27.7379,Overweight
+49,1.74,84.02,27.7514,Overweight
+35,1.88,98.5,27.8689,Overweight
+50,1.74,84.38,27.8703,Overweight
+35,1.75,85.6,27.951,Overweight
+36,1.75,85.8,28.0163,Overweight
+48,1.68,79.5,28.1675,Overweight
+38,1.77,88.3,28.1847,Overweight
+37,1.77,88.3,28.1847,Overweight
+38,1.68,80,28.3447,Overweight
+55,1.73,84.88,28.3605,Overweight
+38,1.79,90.9,28.3699,Overweight
+39,1.78,90.2,28.4686,Overweight
+52,1.6,73,28.5156,Overweight
+39,1.81,93.5,28.54,Overweight
+45,1.78,90.7,28.6264,Overweight
+40,1.83,96.1,28.696,Overweight
+56,1.72,84.99,28.7284,Overweight
+57,1.72,85.1,28.7655,Overweight
+58,1.72,85.21,28.8027,Overweight
+41,1.85,98.7,28.8386,Overweight
+59,1.72,85.32,28.8399,Overweight
+49,1.64,77.9,28.9634,Overweight
+42,1.87,101.3,28.9685,Overweight
+53,1.62,76.3,29.0733,Overweight
+43,1.89,104,29.1145,Overweight
+42,1.79,93.8,29.275,Overweight
+49,1.6,75,29.2969,Overweight
+44,1.91,106.9,29.3029,Overweight
+35,1.7,85,29.4118,Overweight
+45,1.93,109.9,29.5041,Overweight
+46,1.8,95.9,29.5988,Overweight
+44,1.8,96.1,29.6605,Overweight
+47,1.82,98.4,29.7066,Overweight
+51,1.75,91.2,29.7796,Overweight
+48,1.84,101,29.8322,Overweight
+56,1.59,75.8,29.983,Overweight
+47,1.82,99.7,30.099,Obese Class 1
+54,1.61,78.1,30.13,Obese Class 1
+49,1.86,104.6,30.2347,Obese Class 1
+50,1.88,107.2,30.3305,Obese Class 1
+56,1.8,98.5,30.4012,Obese Class 1
+60,1.55,74.7,31.0926,Obese Class 1
+59,1.83,104.7,31.264,Obese Class 1
+50,1.84,106.9,31.5749,Obese Class 1
+57,1.58,79.7,31.926,Obese Class 1
+61,1.85,109.3,31.9357,Obese Class 1
+55,1.72,95,32.112,Obese Class 1
+15,1.62,85,32.3884,Obese Class 1
+25,1.75,100.2,32.7184,Obese Class 1
+42,1.65,90,33.0578,Obese Class 1
+30,1.68,95,33.6593,Obese Class 1
+35,1.7,98.5,34.083,Obese Class 1
+19,1.69,98,34.3125,Obese Class 1
+18,1.7,100,34.6021,Obese Class 1
+19,1.68,98,34.7222,Obese Class 1
+17,1.65,95,34.8944,Obese Class 1
+16,1.6,90,35.1562,Obese Class 2
+15,1.55,85,35.3798,Obese Class 2
+20,1.72,105,35.4922,Obese Class 2
+22,1.63,95,35.756,Obese Class 2
+17,1.63,95,35.756,Obese Class 2
+45,1.8,116,35.8025,Obese Class 2
+18,1.67,100,35.8564,Obese Class 2
+57,1.75,110,35.9184,Obese Class 2
+21,1.75,110,35.9184,Obese Class 2
+16,1.58,90,36.0519,Obese Class 2
+30,1.72,106.7,36.0668,Obese Class 2
+43,1.78,114.5,36.1381,Obese Class 2
+22,1.78,115,36.2959,Obese Class 2
+44,1.79,116.4,36.3285,Obese Class 2
+40,1.7,105,36.3322,Obese Class 2
+16,1.7,105,36.3322,Obese Class 2
+33,1.8,118.1,36.4506,Obese Class 2
+42,1.75,112,36.5714,Obese Class 2
+37,1.76,113.3,36.5767,Obese Class 2
+47,1.75,112.2,36.6367,Obese Class 2
+36,1.75,112.2,36.6367,Obese Class 2
+46,1.74,111.2,36.7288,Obese Class 2
+15,1.65,100,36.7309,Obese Class 2
+29,1.76,113.8,36.7381,Obese Class 2
+41,1.73,110.1,36.7871,Obese Class 2
+39,1.74,111.7,36.8939,Obese Class 2
+34,1.81,120.9,36.9036,Obese Class 2
+32,1.77,115.7,36.9306,Obese Class 2
+51,1.7,107.3,37.128,Obese Class 2
+38,1.78,118.9,37.5268,Obese Class 2
+22,1.79,120.3,37.5456,Obese Class 2
+21,1.71,110,37.6184,Obese Class 2
+48,1.63,100,37.6378,Obese Class 2
+28,1.82,126.8,38.2804,Obese Class 2
+24,1.83,128.7,38.4305,Obese Class 2
+40,1.68,108.6,38.4779,Obese Class 2
+20,1.65,105,38.5675,Obese Class 2
+31,1.85,132,38.5683,Obese Class 2
+27,1.84,131,38.6933,Obese Class 2
+54,1.61,100.3,38.6945,Obese Class 2
+57,1.6,99.1,38.7109,Obese Class 2
+53,1.62,101.7,38.7517,Obese Class 2
+26,1.86,134.1,38.7617,Obese Class 2
+56,1.59,98,38.7643,Obese Class 2
+48,1.69,110.9,38.8292,Obese Class 2
+49,1.63,103.2,38.8423,Obese Class 2
+18,1.72,115,38.8724,Obese Class 2
+60,1.58,97.1,38.896,Obese Class 2
+17,1.68,110,38.9739,Obese Class 2
+52,1.64,105.1,39.0764,Obese Class 2
+19,1.75,120,39.1837,Obese Class 2
+25,1.81,128.7,39.2845,Obese Class 2
+20,1.78,125,39.4521,Obese Class 2
+24,1.77,124.5,39.7395,Obese Class 2
+26,1.82,132,39.8503,Obese Class 2
+50,1.66,110.5,40.1002,Obese Class 3
+31,1.78,127.8,40.3358,Obese Class 3
+27,1.83,136.2,40.6701,Obese Class 3
+29,1.79,132.1,41.2284,Obese Class 3
+28,1.85,142,41.4901,Obese Class 3
+15,1.7,120,41.5225,Obese Class 3
+50,1.8,135,41.6667,Obese Class 3
+22,1.66,115,41.7332,Obese Class 3
+32,1.76,130.5,42.1294,Obese Class 3
+23,1.68,120,42.517,Obese Class 3
+21,1.73,130,43.4361,Obese Class 3
+16,1.72,130,43.9427,Obese Class 3
+34,1.76,138.9,44.8412,Obese Class 3
+25,1.7,130,44.9827,Obese Class 3
+17,1.75,140,45.7143,Obese Class 3
+35,1.75,141.5,46.2041,Obese Class 3
+30,1.8,150,46.2963,Obese Class 3
+36,1.76,144,46.4876,Obese Class 3
+39,1.77,146.3,46.6979,Obese Class 3
+24,1.76,145,46.8104,Obese Class 3
+32,1.6,120,46.875,Obese Class 3
+22,1.69,135,47.2673,Obese Class 3
+18,1.78,150,47.3425,Obese Class 3
+24,1.62,125,47.6299,Obese Class 3
+23,1.71,140,47.878,Obese Class 3
+37,1.78,152.3,48.0684,Obese Class 3
+26,1.79,155,48.3755,Obese Class 3
+42,1.73,146.2,48.8489,Obese Class 3
+27,1.69,140,49.0179,Obese Class 3
+38,1.8,159.6,49.2593,Obese Class 3
+41,1.75,151,49.3061,Obese Class 3
+19,1.8,160,49.3827,Obese Class 3
+25,1.74,150,49.5442,Obese Class 3
+45,1.68,140,49.6032,Obese Class 3
+26,1.64,135,50.1933,Obese Class 3
+27,1.77,160,51.0709,Obese Class 3
+20,1.82,170,51.3223,Obese Class 3
+28,1.67,145,51.9918,Obese Class 3
+44,1.72,154,52.0552,Obese Class 3
+21,1.85,180,52.5931,Obese Class 3
+30,1.7,155,53.6332,Obese Class 3
+45,1.7,155.8,53.91,Obese Class 3
+30,1.8,175,54.0123,Obese Class 3
+46,1.71,158.7,54.2731,Obese Class 3
+22,1.87,190,54.3338,Obese Class 3
+40,1.74,165.3,54.5977,Obese Class 3
+29,1.65,150,55.0964,Obese Class 3
+55,1.7,160,55.3633,Obese Class 3
+23,1.9,200,55.4017,Obese Class 3
+29,1.75,170,55.5102,Obese Class 3
+28,1.72,165,55.7734,Obese Class 3
+24,1.92,210,56.9661,Obese Class 3
+25,1.95,220,57.8567,Obese Class 3
+26,1.97,230,59.2646,Obese Class 3
+49,1.65,162.5,59.6878,Obese Class 3
+27,2,240,60,Obese Class 3
+47,1.67,168.9,60.5615,Obese Class 3
+28,2.02,250,61.2685,Obese Class 3
+29,2.05,260,61.8679,Obese Class 3
+48,1.68,175,62.004,Obese Class 3
+30,2.07,270,63.012,Obese Class 3
+50,1.66,182.7,66.3014,Obese Class 3
