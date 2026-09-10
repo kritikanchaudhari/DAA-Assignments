@@ -1,0 +1,55 @@
+ SMART TRAFFIC MANAGEMENT SYSTEM
+ Emergency Vehicle Route Optimization
+
+Enter number of intersections (vertices): 6
+Enter number of roads (edges): 7
+Enter road details:
+Format: Start_Node End_Node Travel_Time
+
+Road 1: 0 1 4
+Road 2: 0 2 2
+Road 3: 1 2 1
+Road 4: 1 3 5
+Road 5: 2 3 8
+Road 6: 2 4 10
+Road 7: 3 5 2
+Enter ambulance starting location: 0
+Enter number of hospitals: 3
+Enter hospital node numbers:
+3
+4
+5
+
+ INITIAL HOSPITAL DISTANCES
+
+Hospital 3 : 7 minutes
+Hospital 4 : 12 minutes
+Hospital 5 : 9 minutes
+
+ BEST HOSPITAL
+
+Nearest Hospital : 3
+Minimum Travel Time : 7 minutes
+Optimal Route: 0 -> 1 -> 3
+Do you want to update traffic conditions? (y/n): y
+
+Enter road whose traffic has changed:
+Start node: 1
+End node: 3
+Enter new travel time: 10
+Traffic updated successfully.
+
+ UPDATED HOSPITAL DISTANCES
+
+Hospital 3 : 10 minutes
+Hospital 4 : 12 minutes
+Hospital 5 : 12 minutes
+
+ UPDATED OPTIMAL ROUTE
+
+Nearest Hospital : 3
+Minimum Travel Time : 10 minutes
+Optimal Route: 0 -> 1 -> 2 -> 3
+Do you want to update traffic again? (y/n): n
+
+ SYSTEM FINISHED
