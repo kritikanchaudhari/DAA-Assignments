@@ -1,0 +1,73 @@
+OUTPUT 1: IMDb RATING
+
+      STREAMFLIX MOVIE RECOMMENDATION
+
+Choose Recommendation Parameter
+1. IMDb Rating
+2. Release Year
+3. Popularity
+
+Enter your choice: 1
+How many movies do you want to display? 10
+
+No.  Movie Title                               Rating    Year    Popularity
+1    The Shawshank Redemption                  9.3       1994    2343110        
+2    The Godfather                             9.2       1972    1620367        
+3    The Dark Knight                           9.0       2008    2303232        
+4    The Godfather: Part II                    9.0       1974    1129952        
+5    12 Angry Men                              9.0       1957    689845         
+6    The Lord of the Rings: The Return of the  8.9       2003    1642758        
+7    Pulp Fiction                              8.9       1994    1826188        
+8    Schindler's List                          8.9       1993    1213505        
+9    Inception                                 8.8       2010    2067042        
+10   Fight Club                                8.8       1999    1854740        
+
+
+OUTPUT 2: RELEASE YEAR
+
+      STREAMFLIX MOVIE RECOMMENDATION
+
+Choose Recommendation Parameter
+1. IMDb Rating
+2. Release Year
+3. Popularity
+
+Enter your choice: 2
+How many movies do you want to display? 10
+
+No.  Movie Title                               Rating    Year    Popularity
+1    Soorarai Pottru                           8.6       2020    54995          
+2    Hamilton                                  8.6       2020    55291          
+3    Dil Bechara                               7.9       2020    111478         
+4    Druk                                      7.8       2020    33931          
+5    Soul                                      8.1       2020    159171         
+6    The Trial of the Chicago 7                7.8       2020    89896          
+7    Joker                                     8.5       2019    939252         
+8    Avengers: Endgame                         8.4       2019    809955         
+9    Marriage Story                            7.9       2019    246644         
+10   The Irishman                              7.9       2019    324720         
+
+
+OUTPUT 3: POPULARITY
+
+      STREAMFLIX MOVIE RECOMMENDATION
+
+Choose Recommendation Parameter
+1. IMDb Rating
+2. Release Year
+3. Popularity
+
+Enter your choice: 3
+How many movies do you want to display? 10
+
+No.  Movie Title                               Rating    Year    Popularity
+1    The Shawshank Redemption                  9.3       1994    2343110        
+2    The Dark Knight                           9.0       2008    2303232        
+3    Inception                                 8.8       2010    2067042        
+4    Fight Club                                8.8       1999    1854740        
+5    Pulp Fiction                              8.9       1994    1826188        
+6    Forrest Gump                              8.8       1994    1809221        
+7    The Matrix                                8.7       1999    1676426        
+8    The Lord of the Rings: The Fellowship of  8.8       2001    1661481        
+9    The Lord of the Rings: The Return of the  8.9       2003    1642758        
+10   The Godfather                             9.2       1972    1620367        
