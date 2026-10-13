@@ -1,0 +1,75 @@
+UNIVERSITY EXAM TIMETABLE SYSTEM
+
+Enter number of courses: 4
+
+Enter course details
+Enter course ID: CS101
+Enter course name: Data Structures
+Enter course ID: CS102
+Enter course name: Operating Systems
+Enter course ID: CS103
+Enter course name: Database Management
+Enter course ID: CS104
+Enter course name: Computer Networks
+
+Enter number of students: 4
+
+Enter student enrollments
+
+Enter student ID: S1
+Enter number of courses for S1: 3
+Enter course IDs: CS101 CS102 CS103
+
+Enter student ID: S2
+Enter number of courses for S2: 2
+Enter course IDs: CS101 CS102
+
+Enter student ID: S3
+Enter number of courses for S3: 2
+Enter course IDs: CS102 CS104
+
+Enter student ID: S4
+Enter number of courses for S4: 2
+Enter course IDs: CS103 CS104
+
+Enter number of rooms: 3
+
+Enter room details
+Enter room ID: R101
+Enter capacity: 40
+Enter room ID: R102
+Enter capacity: 30
+Enter room ID: R103
+Enter capacity: 25
+
+CONFLICT GRAPH
+--------------
+CS101 -> CS102 CS103
+CS102 -> CS101 CS103 CS104
+CS103 -> CS101 CS102 CS104
+CS104 -> CS102 CS103
+
+COLORING ALGORITHM COMPARISON
+Greedy       : 3 time slots
+Welsh-Powell : 3 time slots
+DSATUR       : 3 time slots
+
+VALIDATION
+Greedy       : Valid
+Welsh-Powell : Valid
+DSATUR       : Valid
+
+BEST ALGORITHM
+Greedy selected with 3 time slots.
+
+FINAL EXAM TIMETABLE
+
+Time Slot 1
+CS101 - Data Structures | Students: 2 | Room(s): R101(40)
+CS104 - Computer Networks | Students: 2 | Room(s): R102(30)
+
+Time Slot 2
+CS102 - Operating Systems | Students: 3 | Room(s): R101(40)
+
+Time Slot 3
+CS103 - Database Management | Students: 2 | Room(s): R101(40)
