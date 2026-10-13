@@ -1,0 +1,45 @@
+Enter number of items: 4
+Enter capacity: 8
+
+Enter item details:
+
+Item 1
+Name: Laptop
+Weight: 2
+Profit: 12
+
+Item 2
+Name: Bag
+Weight: 3
+Profit: 10
+
+Item 3
+Name: Camera
+Weight: 4
+Profit: 20
+
+Item 4
+Name: Headphones
+Weight: 5
+Profit: 15
+
+After processing Laptop:
+(0, 0) (2, 12)
+
+After processing Bag:
+(0, 0) (2, 12) (3, 10) (5, 22)
+
+After processing Camera:
+(0, 0) (2, 12) (3, 10) (5, 22) (6, 32) (7, 30)
+
+After processing Headphones:
+(0, 0) (2, 12) (3, 10) (5, 22) (6, 32) (7, 30) (8, 27)
+
+OPTIMAL SOLUTION
+
+Maximum Profit = 32
+Total Weight   = 6
+
+Selected Items:
+Laptop -> Weight = 2, Profit = 12
+Camera -> Weight = 4, Profit = 20
